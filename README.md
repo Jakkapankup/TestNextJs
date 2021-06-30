@@ -10,4 +10,4 @@ git branch -M main
 
 git remote add origin https://github.com/Jakkapankup/TestNextJs.git
 
-git push -u origin main >> คำสั่งในนการ upload ไฟล์
+git push -u origin main >> คำสั่งในนการ upload ไฟล์ ้haha
